@@ -1,0 +1,11 @@
+{
+  "name": "stellaris-map-converter",
+  "version": "1.0.0",
+  "main": "start.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "create-map": "node createMap",
+    "convert": "cd convert && node convertFromTxtToJSON.js"
+  }
+}

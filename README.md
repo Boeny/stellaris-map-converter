@@ -9,7 +9,7 @@ or
 npm run convert
 ```
 
-2. To create map for Stellaris from data.json run
+2. To create map for Stellaris from `data.json` run
 ```
 yarn create-map
 ```

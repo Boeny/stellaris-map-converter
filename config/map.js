@@ -20,7 +20,7 @@ export const generatedMapConfig = {
 export const staticMapConfig = {
     generateId: true,
     generateName: true,
-    positionMultiplier: 100,
+    positionMultiplier: 50,
 }
 
 export const mapConfig = {
